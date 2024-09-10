@@ -1,2 +1,4 @@
-# BotValorant
-Bot para organizar as partidas no valorant
+Bot Valorant
+
+TODO:
+[]: Best Comps Each Map
